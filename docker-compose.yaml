@@ -1,5 +1,5 @@
 services:
-  sukilana6:
+  sukilana7:
     build: .
     shm_size: 2.6gb
     ports:
